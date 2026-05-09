@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repo has moved.** It now lives as the [`foundry/`](https://github.com/wizzlethorpe/vaults/tree/main/foundry) directory of the [`wizzlethorpe/vaults`](https://github.com/wizzlethorpe/vaults) monorepo, alongside the CLI, Foundry module, and demo vault under one shared version. This repo is archived (read-only); please open issues and PRs against the monorepo.
+
+---
+
 # Wizzlethorpe Vaults: Foundry VTT Module
 
 Sync an Obsidian vault deployed via [vaults-cli](https://github.com/wizzlethorpe/vaults-cli) into Foundry VTT as journal entries (and optionally Actors / Items). Manifest-based incremental sync, role-based auth, multi-vault support, local image cache.
